@@ -156,9 +156,28 @@
 // console.log(array);
 // console.log(spliced);
 
-https://www.youtube.com/watch?v=p-OJNaEdGDY&t=9s
+// https://www.youtube.com/watch?v=p-OJNaEdGDY&t=9s
 
-https://www.youtube.com/playlist?list=PLyJqTD4cwIqPmveghTVn-SHNVrQlwWSDU
+// https://www.youtube.com/playlist?list=PLyJqTD4cwIqPmveghTVn-SHNVrQlwWSDU
 
 
+
+let test1 = "adfsff"
+let test2 = 123
+let test3 = true
+let test4 = {}
+let test5 = []
+let test6  
+let test7 = {"fdsffd": 123}
+let test8 = ["dfdffef", 123]
+function test9(){return "adfdf"}
+console.log(typeof test1);
+console.log(typeof test2);
+console.log(typeof test3);
+console.log(typeof test4);
+console.log(typeof test5);
+console.log(typeof test6);
+console.log(typeof test7);
+console.log(typeof test8);
+console.log(typeof test9);
 
