@@ -171,6 +171,7 @@ let test6
 let test7 = {"fdsffd": 123}
 let test8 = ["dfdffef", 123]
 function test9(){return "adfdf"}
+let test10 = null;
 console.log(typeof test1);
 console.log(typeof test2);
 console.log(typeof test3);
@@ -180,4 +181,12 @@ console.log(typeof test6);
 console.log(typeof test7);
 console.log(typeof test8);
 console.log(typeof test9);
+console.log(typeof test10);
 
+if (99 == "99"){
+    console.log("A number equals a string!");
+    
+} else {
+    console.log("No way a number equale a string");
+    
+}
